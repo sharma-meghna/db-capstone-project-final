@@ -1,2 +1,2 @@
-setting up repository for project
+setting up repository for the project
 # db-capstone-project-final
